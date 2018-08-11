@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\D4\Documents\NetBeansProjects\RC5_RC6_Appli\dist\RC5_RC6_Appli.jar</jar>
+  <outfile>C:\Users\D4\Documents\NetBeansProjects\RC5_RC6_Appli\dist\rc5rc6.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\D4\Documents\NetBeansProjects\RC5_RC6_Appli\dist\white_ninja.ico</icon>
+  <jre>
+    <path>jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>nil</txtFileVersion>
+    <fileDescription>rc5rc6</fileDescription>
+    <copyright>mycompany</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>nil</txtProductVersion>
+    <productName>rc5rc6</productName>
+    <companyName>mycompany</companyName>
+    <internalName>mycompany</internalName>
+    <originalFilename>rc5rc6.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
